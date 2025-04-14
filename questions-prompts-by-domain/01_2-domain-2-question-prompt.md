@@ -65,19 +65,21 @@ D. A process for labeling data for supervised learning.
 
 **User:** B  
 
--**Explanation:**  
--- **A:** Incorrect. A statistical model used for regression analysis is not a neural network; it is typically a linear regression model.  
--- **B:** Correct. Neural networks are machine learning algorithms inspired by the structure and function o
-f the human brain.  
--- **C:** Incorrect. Organizing and storing data in tabular format refers to database management, not neura
-l networks.  
--- **D:** Incorrect. Labeling data for supervised learning is a data preparation step, not a neural network
- function.  
--
-----
-
 **AI:**  
 **Correct Answer:** B  
+
+**Explanation:**  
+- **A:** Incorrect. A statistical model used for regression analysis is not a neural network; it is typically a linear regression model.  
+- **B:** Correct. Neural networks are machine learning algorithms inspired by the structure and function o
+f the human brain.  
+- **C:** Incorrect. Organizing and storing data in tabular format refers to database management, not neura
+l networks.  
+- **D:** Incorrect. Labeling data for supervised learning is a data preparation step, not a neural network
+ function.  
+
+----
+
+
 
 ### **Appendix**
 
