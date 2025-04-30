@@ -1,12 +1,9 @@
-# Basic AI Concepts and Terminologies: Focus on Machine Learning
-
----
+# Task Statement 1.1 Explain Basic AI Concepts and Terminologies
 
 ## What is Machine Learning (ML)?
 - **Definition:** Machine learning is the science of developing algorithms and statistical models that enable computer systems to perform complex tasks without explicit instructions.
 - **How it Works:** ML algorithms process large quantities of historical data to identify patterns. The process starts with a mathematical algorithm that takes data as input and generates an output.
 
----
 
 ## Key Concepts in Machine Learning
 
@@ -23,7 +20,7 @@
 ### 3. Inference
 - **Definition:** Inference is the process where a trained model makes predictions or produces output from new, unseen data.
 
----
+
 
 ## Types of Data Used in Machine Learning
 
@@ -49,7 +46,7 @@
 - **Examples:** Performance metrics (memory usage, CPU percentage, transactions per second).
 - **Storage:** Often stored in Amazon S3 due to large size.
 
----
+
 
 ## Example: Linear Regression in Machine Learning
 
@@ -62,7 +59,7 @@
 - **Training:** The model iteratively adjusts m and b to minimize the error (distance between data points and the line).
 - **Inference:** Once trained, the model can predict height from a new weight value.
 
----
+
 
 ## Summary
 - Machine learning enables systems to learn from data and make predictions without explicit programming.

@@ -1,5 +1,4 @@
-# Basic AI Concepts and Terminologies: Deep Learning
-
+# Task Statement 1.1 Explain Basic AI Concepts and Terminologies
 ## Deep Learning Overview
 
 Deep learning is a subset of machine learning that utilizes algorithmic structures known as neural networks. These networks are inspired by the structure of the human brain, where neurons form complex networks to process information. In deep learning, software modules called nodes simulate the behavior of biological neurons.

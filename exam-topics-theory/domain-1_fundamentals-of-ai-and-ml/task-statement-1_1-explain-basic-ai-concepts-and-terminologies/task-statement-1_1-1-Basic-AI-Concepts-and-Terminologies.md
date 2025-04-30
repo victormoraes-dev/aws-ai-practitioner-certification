@@ -1,6 +1,4 @@
-# Basic AI Concepts and Terminologies
-
----
+# Task Statement 1.1 Explain Basic AI Concepts and Terminologies
 
 ## What is Artificial Intelligence (AI)?
 - **Definition:** Artificial intelligence (AI) is the field of computer science dedicated to solving cognitive problems commonly associated with human intelligence, such as learning, creation, and image recognition.
@@ -12,20 +10,20 @@
 - **Automation:** AI performs repetitive and monotonous tasks, increasing business efficiency and freeing employees for creative work.
 - **Pattern Recognition & Forecasting:** AI excels at finding patterns in data and forecasting trends, helping businesses make smarter decisions and react quickly.
 
----
+
 
 ## What is Machine Learning (ML)?
 - **Definition:** Machine learning is a branch of AI and computer science that focuses on using data and algorithms to imitate the way humans learn, gradually improving accuracy.
 - **How it Works:** ML models are trained using large datasets to identify patterns and make predictions.
 - **Example:** Product recommendations for online shoppers.
 
----
+
 
 ## What is Deep Learning?
 - **Definition:** Deep learning is a type of machine learning inspired by the human brain, using layers of neural networks to process information.
 - **Capabilities:** Recognizing human speech, objects, and images.
 
----
+
 
 ## AI in Industry
 - **Healthcare:**
@@ -46,7 +44,7 @@
 - **Marketing:**
   - Targeted promotions and recommendations.
 
----
+
 
 ## AI Techniques
 - **Regression Analysis:**
@@ -57,7 +55,7 @@
 - **Anomaly Detection:**
   - AI detects deviations from expected patterns (e.g., sudden drop in call center activity).
 
----
+
 
 ## Computer Vision
 - **Applications:**
@@ -66,7 +64,7 @@
   - Detecting scratches on surfaces.
   - Identifying missing components on circuit boards.
 
----
+
 
 ## Language and Translation
 - **Text Translation:**
@@ -74,7 +72,7 @@
 - **Real-Time Translation Example:**
   - Customer support chat: Real-time translation between different languages.
 
----
+
 
 ## Natural Language Processing (NLP)
 - **Definition:** NLP enables machines to understand, interpret, and generate human language naturally.
@@ -83,14 +81,14 @@
 - **Example:**
   - Chatbot prompts customer for reservation information.
 
----
+
 
 ## Generative AI
 - **Definition:** Generative AI can have intelligent conversations and generate original content (stories, images, videos, music).
 - **Example:**
   - A prompt can generate a complete song with verses, chorus, bridge, and outro.
 
----
+
 
 ## Summary
 - AI is transforming industries by automating tasks, improving decision-making, and enabling new capabilities.
