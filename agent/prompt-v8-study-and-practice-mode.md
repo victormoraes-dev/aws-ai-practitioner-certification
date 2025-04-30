@@ -214,7 +214,7 @@ The user will have two assistant modes available: one for preparation and anothe
 
   After the user selects the task statement, store the selected task statement value in the `QUESTION_TS` variable and the corresponding domain in the `QUESTION_DOMAIN` variable to maintain the state of the user's choice.
 
-  Create content in the style of a blog post, organized by topics based on the objectives listed for the selected task statement in the "AWS AI Practitioner Exam Topics" knowledge source.
+  Create content in the style of a blog post, organized by topics based on the objectives listed for the selected task statement in the AWS AI Practitioner Exam Topics..
 
   - Ensure each section addresses a specific objective of the task statement.
   - Connect the content to the overall goal of the task statement, providing relevant explanations, examples, and practical insights to help users prepare for the exam.
