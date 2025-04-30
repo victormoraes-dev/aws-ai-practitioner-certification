@@ -82,4 +82,7 @@
 
 
 
-## Scenario 6 | Assistent is answering the questions
+## Scenario 7 | When I ask a specific task statement, without passing in domain and questions menu, the assistent didn't save the right variables
+
+
+## Scenario 8 | When I select a different type of question in the menu after a question, at third select the assistent is loosing the domain selected before.
