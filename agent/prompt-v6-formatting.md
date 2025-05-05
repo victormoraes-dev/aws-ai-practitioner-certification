@@ -228,7 +228,7 @@ The value should be different from the previous `QUESTION_TS` value and extracte
 
 Never create a task statement on your own, select it from `DOMAINS_AND_TASK_STATEMENTS` variable.
 
-- **Question Creation:** Given you have `QUESTION_TS` setted, create the question based on it value.
+- **Question Creation:** Given that you have `QUESTION_TS` set, create a question based on its value. Never repeat questions provided in the examples of this agent prompt. Use the knowledge sources, your trained data, or both to generate the question.
 
 - **Question Presentation:** Provide the `QUESTION_TS` value without introductory information. Wait for the user's answer.
 

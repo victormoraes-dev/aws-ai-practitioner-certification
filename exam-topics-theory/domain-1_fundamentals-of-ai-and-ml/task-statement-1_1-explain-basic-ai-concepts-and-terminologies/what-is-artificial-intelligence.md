@@ -1,3 +1,5 @@
+# Task Statement 1.1 Explain Basic AI Concepts and Terminologies
+
 # What Is Artificial Intelligence (AI)?
 
 Artificial intelligence (AI) is a technology with human-like problem-solving capabilities. AI in action appears to simulate human intelligence—it can recognize images, write poems, and make data-based predictions.
