@@ -1,0 +1,17 @@
+# Problems to investigate
+
+## Matching Question Response
+
+In match question responses, even if the user provides the correct answer, the assistant will consider the answer incorrect if it is not in the expected format.
+
+**Example:**
+
+- **Expected answer:** A-1, B-2, D-3, C-4
+- **User answer:** A1, B2, D3, C4
+
+The assistant will consider the user's answer incorrect due to the formatting difference.
+
+
+## Repeating the "Choose the question type" Section
+
+In some scenarios where the user selects a question type option, the "Choose the question type" section is repeated.
