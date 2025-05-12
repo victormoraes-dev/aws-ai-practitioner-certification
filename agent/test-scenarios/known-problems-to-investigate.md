@@ -15,3 +15,6 @@ The assistant will consider the user's answer incorrect due to the formatting di
 ## Repeating the "Choose the question type" Section
 
 In some scenarios where the user selects a question type option, the "Choose the question type" section is repeated.
+
+## In some cases, for multiple-response questions, the assistant marks the user's response as incorrect, but the explanation indicates that the answer is actually correct.
+
