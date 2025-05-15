@@ -1,4 +1,4 @@
-# Task Statement 3.1: Describe Design Considerations for Applications thet Use Foundation Models
+# Task Statement 3.1: Describe Design Considerations for Applications that Use Foundation Models
 
 # Design Considerations for Applications That Use Foundation Models
 
