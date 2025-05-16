@@ -69,28 +69,28 @@ Unanswered questions are scored as incorrect. The exam includes 50 scored questi
 
 #### Task Statement 1.1: Explain Basic AI Concepts and Terminologies
 
-- Define terms: AI, ML, deep learning, neural networks, computer vision, NLP, model, algorithm, training, inferencing, bias, fairness, fit, LLM.
-- Describe similarities and differences between AI, ML, and deep learning.
-- Describe types of inferencing (batch, real-time).
-- Describe types of data in AI models (labeled, unlabeled, tabular, time-series, image, text, structured, unstructured).
-- Describe supervised, unsupervised, and reinforcement learning.
+- 1.1.1 Define terms: AI, ML, deep learning, neural networks, computer vision, NLP, model, algorithm, training, inferencing, bias, fairness, fit, LLM.
+- 1.1.2 Describe similarities and differences between AI, ML, and deep learning.
+- 1.1.3 Describe types of inferencing (batch, real-time).
+- 1.1.4 Describe types of data in AI models (labeled, unlabeled, tabular, time-series, image, text, structured, unstructured).
+- 1.1.5 Describe supervised, unsupervised, and reinforcement learning.
 
 #### Task Statement 1.2: Identify Practical Use Cases for AI
 
-- Recognize applications where AI/ML provides value (decision support, scalability, automation).
-- Determine when AI/ML is not appropriate (cost-benefit, need for specific outcomes).
-- Select appropriate ML techniques (regression, classification, clustering).
-- Identify real-world AI applications (computer vision, NLP, speech recognition, recommendation, fraud detection, forecasting).
-- Explain capabilities of AWS managed AI/ML services (SageMaker, Amazon Transcribe, Amazon Translate, Amazon Comprehend, Amazon Lex, Amazon Polly).
+- 1.2.1 Recognize applications where AI/ML provides value (decision support, scalability, automation).
+- 1.2.2 Determine when AI/ML is not appropriate (cost-benefit, need for specific outcomes).
+- 1.2.3 Select appropriate ML techniques (regression, classification, clustering).
+- 1.2.4 Identify real-world AI applications (computer vision, NLP, speech recognition, recommendation, fraud detection, forecasting).
+- 1.2.5 Explain capabilities of AWS managed AI/ML services (SageMaker, Amazon Transcribe, Amazon Translate, Amazon Comprehend, Amazon Lex, Amazon Polly).
 
 #### Task Statement 1.3: Describe the ML Development Lifecycle
 
-- Describe ML pipeline components: data collection, EDA, data pre-processing, feature engineering, model training, hyperparameter tuning, evaluation, deployment, monitoring.
-- Understand sources of ML models (open source pre-trained, custom training).
-- Describe production model usage (managed API, self-hosted API).
-- Identify AWS services for each pipeline stage (SageMaker, Data Wrangler, Feature Store, Model Monitor).
-- Understand MLOps concepts (experimentation, repeatability, scalability, technical debt, production readiness, monitoring, re-training).
-- Understand model and business performance metrics (accuracy, AUC, F1, cost per user, development costs, customer feedback, ROI).
+- 1.3.1 Describe ML pipeline components: data collection, EDA, data pre-processing, feature engineering, model training, hyperparameter tuning, evaluation, deployment, monitoring.
+- 1.3.2 Understand sources of ML models (open source pre-trained, custom training).
+- 1.3.3 Describe production model usage (managed API, self-hosted API).
+- 1.3.4 Identify AWS services for each pipeline stage (SageMaker, Data Wrangler, Feature Store, Model Monitor).
+- 1.3.5 Understand MLOps concepts (experimentation, repeatability, scalability, technical debt, production readiness, monitoring, re-training).
+- 1.3.6 Understand model and business performance metrics (accuracy, AUC, F1, cost per user, development costs, customer feedback, ROI).
 
 ---
 
@@ -98,23 +98,23 @@ Unanswered questions are scored as incorrect. The exam includes 50 scored questi
 
 #### Task Statement 2.1: Explain Basic Concepts of Generative AI
 
-- Understand concepts: tokens, chunking, embeddings, vectors, prompt engineering, transformer-based LLMs, foundation models, multi-modal models, diffusion models.
-- Identify use cases: image, video, audio generation; summarization; chatbots; translation; code generation; customer service; search; recommendation.
-- Describe foundation model lifecycle: data selection, model selection, pre-training, fine-tuning, evaluation, deployment, feedback.
+- 2.1.1 Understand concepts: tokens, chunking, embeddings, vectors, prompt engineering, transformer-based LLMs, foundation models, multi-modal models, diffusion models.
+- 2.1.2 Identify use cases: image, video, audio generation; summarization; chatbots; translation; code generation; customer service; search; recommendation.
+- 2.1.3 Describe foundation model lifecycle: data selection, model selection, pre-training, fine-tuning, evaluation, deployment, feedback.
 
 #### Task Statement 2.2: Understand Capabilities and Limitations of Generative AI
 
-- Describe advantages: adaptability, responsiveness, simplicity.
-- Identify disadvantages: hallucinations, interpretability, inaccuracy, nondeterminism.
-- Understand factors for model selection: types, performance, capabilities, constraints, compliance.
-- Determine business value and metrics: cross-domain performance, efficiency, conversion rate, average revenue per user, accuracy, customer lifetime value.
+- 2.2.1 Describe advantages: adaptability, responsiveness, simplicity.
+- 2.2.2 Identify disadvantages: hallucinations, interpretability, inaccuracy, nondeterminism.
+- 2.2.3 Understand factors for model selection: types, performance, capabilities, constraints, compliance.
+- 2.2.4 Determine business value and metrics: cross-domain performance, efficiency, conversion rate, average revenue per user, accuracy, customer lifetime value.
 
 #### Task Statement 2.3: Describe AWS Infrastructure and Technologies for Generative AI
 
-- Identify AWS services for generative AI: SageMaker JumpStart, Bedrock, PartyRock, Amazon Q.
-- Describe advantages of AWS generative AI services: accessibility, lower barrier to entry, efficiency, cost-effectiveness, speed to market, business objectives.
-- Understand AWS infrastructure benefits: security, compliance, responsibility, safety.
-- Understand cost tradeoffs: responsiveness, availability, redundancy, performance, regional coverage, token-based pricing, provision throughput, custom models.
+- 2.3.1 Identify AWS services for generative AI: SageMaker JumpStart, Bedrock, PartyRock, Amazon Q.
+- 2.3.2 Describe advantages of AWS generative AI services: accessibility, lower barrier to entry, efficiency, cost-effectiveness, speed to market, business objectives.
+- 2.3.3 Understand AWS infrastructure benefits: security, compliance, responsibility, safety.
+- 2.3.4 Understand cost tradeoffs: responsiveness, availability, redundancy, performance, regional coverage, token-based pricing, provision throughput, custom models.
 
 ---
 
@@ -122,31 +122,31 @@ Unanswered questions are scored as incorrect. The exam includes 50 scored questi
 
 #### Task Statement 3.1: Describe Design Considerations for Applications Using Foundation Models
 
-- Identify selection criteria for pre-trained models: cost, modality, latency, multi-lingual, model size, complexity, customization, input/output length.
-- Understand effect of inference parameters: temperature, input/output length.
-- Define Retrieval Augmented Generation (RAG) and business applications.
-- Identify AWS services for storing embeddings in vector databases: OpenSearch Service, Aurora, Neptune, DocumentDB (MongoDB), RDS for PostgreSQL.
-- Explain cost tradeoffs for customization: pre-training, fine-tuning, in-context learning, RAG.
-- Understand the role of agents in multi-step tasks (e.g., Agents for Amazon Bedrock).
+- 3.1.1 Identify selection criteria for pre-trained models: cost, modality, latency, multi-lingual, model size, complexity, customization, input/output length.
+- 3.1.2 Understand effect of inference parameters: temperature, input/output length.
+- 3.1.3 Define Retrieval Augmented Generation (RAG) and business applications.
+- 3.1.4 Identify AWS services for storing embeddings in vector databases: OpenSearch Service, Aurora, Neptune, DocumentDB (MongoDB), RDS for PostgreSQL.
+- 3.1.4 Explain cost tradeoffs for customization: pre-training, fine-tuning, in-context learning, RAG.
+- 3.1.5 Understand the role of agents in multi-step tasks (e.g., Agents for Amazon Bedrock).
 
 #### Task Statement 3.2: Choose Effective Prompt Engineering Techniques
 
-- Describe prompt engineering concepts: context, instruction, negative prompts, model latent space.
-- Understand techniques: chain-of-thought, zero-shot, single-shot, few-shot, prompt templates.
-- Understand benefits and best practices: response quality, experimentation, guardrails, discovery, specificity, concision, multiple comments.
-- Define risks and limitations: exposure, poisoning, hijacking, jailbreaking.
+- 3.2.1 Describe prompt engineering concepts: context, instruction, negative prompts, model latent space.
+- 3.2.2 Understand techniques: chain-of-thought, zero-shot, single-shot, few-shot, prompt templates.
+- 3.2.3 Understand benefits and best practices: response quality, experimentation, guardrails, discovery, specificity, concision, multiple comments.
+- 3.2.4 Define risks and limitations: exposure, poisoning, hijacking, jailbreaking.
 
 #### Task Statement 3.3: Describe Training and Fine-Tuning Process for Foundation Models
 
-- Describe key elements: pre-training, fine-tuning, continuous pre-training.
-- Define fine-tuning methods: instruction tuning, domain adaptation, transfer learning, continuous pre-training.
-- Describe data preparation: curation, governance, size, labeling, representativeness, RLHF.
+- 3.3.1 Describe key elements: pre-training, fine-tuning, continuous pre-training.
+- 3.3.2 Define fine-tuning methods: instruction tuning, domain adaptation, transfer learning, continuous pre-training.
+- 3.3.3 Describe data preparation: curation, governance, size, labeling, representativeness, RLHF.
 
 #### Task Statement 3.4: Describe Methods to Evaluate Foundation Model Performance
 
-- Understand evaluation approaches: human evaluation, benchmark datasets.
-- Identify relevant metrics: ROUGE, BLEU, BERTScore.
-- Determine if a model meets business objectives: productivity, user engagement, task engineering.
+- 3.4.1 Understand evaluation approaches: human evaluation, benchmark datasets.
+- 3.4.2 Identify relevant metrics: ROUGE, BLEU, BERTScore.
+- 3.4.3 Determine if a model meets business objectives: productivity, user engagement, task engineering.
 
 ---
 
@@ -154,20 +154,20 @@ Unanswered questions are scored as incorrect. The exam includes 50 scored questi
 
 #### Task Statement 4.1: Explain Development of Responsible AI Systems
 
-- Identify features: bias, fairness, inclusivity, robustness, safety, veracity.
-- Use tools to identify responsible AI features (e.g., Guardrails for Amazon Bedrock).
-- Understand responsible model selection practices: environmental considerations, sustainability.
-- Identify legal risks: intellectual property, bias, customer trust, end user risk, hallucinations.
-- Identify dataset characteristics: inclusivity, diversity, curated sources, balanced datasets.
-- Understand effects of bias and variance: demographic impact, inaccuracy, overfitting, underfitting.
-- Describe tools for bias, trustworthiness, and truthfulness: label quality analysis, human audits, subgroup analysis, SageMaker Clarify, Model Monitor, Augmented AI (A2I).
+- 4.1.1 Identify features: bias, fairness, inclusivity, robustness, safety, veracity.
+- 4.1.2 Use tools to identify responsible AI features (e.g., Guardrails for Amazon Bedrock).
+- 4.1.3 Understand responsible model selection practices: environmental considerations, sustainability.
+- 4.1.4 Identify legal risks: intellectual property, bias, customer trust, end user risk, hallucinations.
+- 4.1.5 Identify dataset characteristics: inclusivity, diversity, curated sources, balanced datasets.
+- 4.1.6 Understand effects of bias and variance: demographic impact, inaccuracy, overfitting, underfitting.
+- 4.1.7 Describe tools for bias, trustworthiness, and truthfulness: label quality analysis, human audits, subgroup analysis, SageMaker Clarify, Model Monitor, Augmented AI (A2I).
 
 #### Task Statement 4.2: Recognize Importance of Transparent and Explainable Models
 
-- Understand differences between transparent/explainable and non-transparent/non-explainable models.
-- Use tools to identify transparent/explainable models: SageMaker Model Cards, open source models, data, licensing.
-- Identify tradeoffs: model safety vs. transparency (interpretability, performance).
-- Understand human-centered design principles for explainable AI.
+- 4.2.1 Understand differences between transparent/explainable and non-transparent/non-explainable models.
+- 4.2.2 Use tools to identify transparent/explainable models: SageMaker Model Cards, open source models, data, licensing.
+- 4.2.3 Identify tradeoffs: model safety vs. transparency (interpretability, performance).
+- 4.2.4 Understand human-centered design principles for explainable AI.
 
 ---
 
@@ -175,17 +175,17 @@ Unanswered questions are scored as incorrect. The exam includes 50 scored questi
 
 #### Task Statement 5.1: Explain Methods to Secure AI Systems
 
-- Identify AWS services/features for security: IAM roles, policies, permissions; encryption; Amazon Macie; AWS PrivateLink; shared responsibility model.
-- Understand source citation and data origin documentation: data lineage, cataloging, SageMaker Model Cards.
-- Describe secure data engineering best practices: data quality assessment, privacy-enhancing technologies, access control, data integrity.
-- Understand security and privacy considerations: application security, threat detection, vulnerability management, infrastructure protection, prompt injection, encryption at rest/in transit.
+- 5.1.1 Identify AWS services/features for security: IAM roles, policies, permissions; encryption; Amazon Macie; AWS PrivateLink; shared responsibility model.
+- 5.1.2 Understand source citation and data origin documentation: data lineage, cataloging, SageMaker Model Cards.
+- 5.1.3 Describe secure data engineering best practices: data quality assessment, privacy-enhancing technologies, access control, data integrity.
+- 5.1.4 Understand security and privacy considerations: application security, threat detection, vulnerability management, infrastructure protection, prompt injection, encryption at rest/in transit.
 
 #### Task Statement 5.2: Recognize Governance and Compliance Regulations for AI Systems
 
-- Identify regulatory compliance standards: ISO, SOC, algorithm accountability laws.
-- Identify AWS services/features for governance and compliance: AWS Config, Amazon Inspector, AWS Audit Manager, AWS Artifact, AWS CloudTrail, AWS Trusted Advisor.
-- Describe data governance strategies: data lifecycles, logging, residency, monitoring, observation, retention.
-- Describe governance protocol processes: policies, review cadence, review strategies, governance frameworks (e.g., Generative AI Security Scoping Matrix), transparency standards, team training requirements.
+- 5.2.1 Identify regulatory compliance standards: ISO, SOC, algorithm accountability laws.
+- 5.2.2 Identify AWS services/features for governance and compliance: AWS Config, Amazon Inspector, AWS Audit Manager, AWS Artifact, AWS CloudTrail, AWS Trusted Advisor.
+- 5.2.3 Describe data governance strategies: data lifecycles, logging, residency, monitoring, observation, retention.
+- 5.2.4 Describe governance protocol processes: policies, review cadence, review strategies, governance frameworks (e.g., Generative AI Security Scoping Matrix), transparency standards, team training requirements.
 
 ---
 
