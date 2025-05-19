@@ -344,16 +344,16 @@
   - Amazon Macie
   - PrivateLink
   - Shared responsibility model
-- [ ] Understand source citation and documenting data origins:
+- [X] Understand source citation and documenting data origins:
   - Data lineage
   - Data cataloging
-  - Model cards
-- [ ] Describe best practices for secure data engineering:
+  - SageMaker Model cards
+- [X] Describe best practices for secure data engineering:
   - Assessing data quality
   - Implementing privacy-enhancing technologies
   - Data access control
   - Data integrity
-- [ ] Understand security and privacy considerations for AI systems:
+- [X] Understand security and privacy considerations for AI systems:
   - Application security
   - Threat detection
   - Vulnerability management

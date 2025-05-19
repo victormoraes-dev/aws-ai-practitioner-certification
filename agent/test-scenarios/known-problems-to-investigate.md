@@ -18,3 +18,6 @@ In some scenarios where the user selects a question type option, the "Choose the
 
 ## In some cases, for multiple-response questions, the assistant marks the user's response as incorrect, but the explanation indicates that the answer is actually correct.
 
+## In some cases, for multiple-choice questions, the assistant marks the user's response as incorrect, but the explanation indicates that the answer is actually correct.
+
+## If I ask questions coming from "preparation mode" the assistent is losing the variables values and changing the domain
