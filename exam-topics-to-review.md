@@ -364,25 +364,25 @@
 ## Task Statement 5.2: Recognize Governance and Compliance Regulations for AI Systems
 
 ### Objectives
-- [ ] Identify regulatory compliance standards for AI systems:
+- [X] Identify regulatory compliance standards for AI systems:
   - International Organization for Standardization (ISO)
   - System and Organization Controls (SOC)
   - Algorithm accountability laws
-- [ ] Identify services and features to assist with governance and regulation compliance:
+- [X] Identify services and features to assist with governance and regulation compliance:
   - Config
   - Inspector
   - Audit Manager
   - Artifact
   - CloudTrail
   - Trusted Advisor
-- [ ] Describe data governance strategies:
+- [X] Describe data governance strategies:
   - Data lifecycles
   - Logging
   - Residency
   - Monitoring
   - Observation
   - Retention
-- [ ] Describe processes to follow governance protocols:
+- [X] Describe processes to follow governance protocols:
   - Policies
   - Review cadence
   - Review strategies
