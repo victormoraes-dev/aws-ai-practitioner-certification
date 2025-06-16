@@ -3,7 +3,7 @@
 ## Task Statement 1.1: Explain Basic AI Concepts and Terminologies
 
 ### Objectives
-- [ ] Define basic AI terms:
+- [X] Define basic AI terms:
   - Artificial Intelligence (AI)
   - Machine Learning (ML)
   - Deep Learning
@@ -17,18 +17,18 @@
   - Fairness
   - Fit
   - Large Language Model (LLM)
-- [ ] Describe similarities and differences between AI, ML, and deep learning.
-- [ ] Describe various types of inferencing:
+- [X] Describe similarities and differences between AI, ML, and deep learning.
+- [X] Describe various types of inferencing:
   - Batch
   - Real-time
-- [ ] Describe different types of data in AI models:
+- [X] Describe different types of data in AI models:
   - Labeled and unlabeled
   - Tabular
   - Time-series
   - Image
   - Text
   - Structured and unstructured
-- [ ] Describe supervised learning, unsupervised learning, and reinforcement learning.
+- [X] Describe supervised learning, unsupervised learning, and reinforcement learning.
 
 ## Task Statement 1.2: Identify Practical Use Cases for AI
 

@@ -21,3 +21,9 @@ In some scenarios where the user selects a question type option, the "Choose the
 ## In some cases, for multiple-choice questions, the assistant marks the user's response as incorrect, but the explanation indicates that the answer is actually correct.
 
 ## If I ask questions coming from "preparation mode" the assistent is losing the variables values and changing the domain
+
+## If I ask questions coming from "preparation mode" the assistent is losing the question type variable value
+
+## In PRACTICE MODE when I try to change the question type, it is loosing de domain selected before
+
+## In Practice Mode if I use lowercase to answer, it is considering worg even it is correct
